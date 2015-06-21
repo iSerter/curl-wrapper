@@ -1,5 +1,5 @@
 {
-    "name": "serter/curl",
+    "name": "iserter/curl",
     "description": "A Wrapper class for PHP cURL extension",
     "license": "MIT",
     "authors": [
